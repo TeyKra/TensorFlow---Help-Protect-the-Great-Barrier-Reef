@@ -1,5 +1,5 @@
 # TensorFlow---Help-Protect-the-Great-Barrier-Reef
-![Texte alternatif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.tensorflow.org%2F2021%2F11%2Fannouncing-tensorflows-kaggle-challenge.html&psig=AOvVaw02bSgCuOcXyCnyGiDEoPdd&ust=1714828814222000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCw06XJ8YUDFQAAAAAdAAAAABAE)
+![Texte alternatif](https://blogger.googleusercontent.com/img/a/AVvXsEj6-rQw5r22Bt47BUTtW5bn_dcWT7zMeADwtvsAHS3kBt6w8eWTmCM649ZcJcvosIMup6flKFIaI8p4M9ZzH1yXpEaMRjvwwfVZ_hMqgXCxtwNzEK25vTa-J2ly20by3M1zx7rTymo-tBI6Fq-mj1SJfCOXsOz0Ou1Esi4h2omvQSW98AjsONsVS-EA)
 
 ## Competition Description
 
