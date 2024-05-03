@@ -1,4 +1,7 @@
 # TensorFlow---Help-Protect-the-Great-Barrier-Reef
+
+[Kaggle Competition Link](https://www.kaggle.com/competitions/tensorflow-great-barrier-reef)
+
 ![Texte alternatif](https://blogger.googleusercontent.com/img/a/AVvXsEj6-rQw5r22Bt47BUTtW5bn_dcWT7zMeADwtvsAHS3kBt6w8eWTmCM649ZcJcvosIMup6flKFIaI8p4M9ZzH1yXpEaMRjvwwfVZ_hMqgXCxtwNzEK25vTa-J2ly20by3M1zx7rTymo-tBI6Fq-mj1SJfCOXsOz0Ou1Esi4h2omvQSW98AjsONsVS-EA)
 
 ## Competition Description
